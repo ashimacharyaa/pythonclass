@@ -1,4 +1,4 @@
-# Create the file (paste exactly this content):
+
 # File: requirements.txt
 
 langchain==0.3.0
